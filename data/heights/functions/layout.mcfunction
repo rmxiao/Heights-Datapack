@@ -1,0 +1,2 @@
+#Spawnpoint potion 
+#give @a potion{Potion:"minecraft:water",CustomPotionEffects:[{Id:4,Duration:1}],display:{Name:"\"Change Spawn\"",Lore:["\"Upon respawn, you will be able to select new spawnpoint.\""]}} 1
